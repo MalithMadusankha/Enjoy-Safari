@@ -1,0 +1,51 @@
+ID Number : IT19985428
+FULL NAME : RATHNASIRI K D M M
+Project group number : MLB_03.01_04
+Project name  :  Wild-life safari trip management system  
+Batch  :  3.1
+
+I am group leader.
+Contribution : Home Page
+		  - Footer(common area)
+		  - Header(common area)
+		  - Navigation Bar (Menu Bar)
+		  - I share my Footer and Header for group members footer and Header.
+	    Sign Up Page 
+		Sign In Page
+		Contact Us Page
+My ispecial focues area is Admin Side
+		Admin Page (users.php)
+		Add User page (AddUser.php)
+		Modify Page  (modifyUser.php)
+		Change Password Page (changePasword.php)
+		
+Extra Pages -   
+		Customer Details Page (After Login to the Account)
+		Home Page (After Login to the Account)
+		Admin (After Login to the Account)
+		
+Extra .php  -	
+		Sign Out.php
+		Delete User.php
+		many more
+Include .php -	Connection
+		Header
+		Customer Header
+		Admin Header
+		Footer
+		Function
+
+*I have save all HTML FIlE with .php extension* 
+
+	* 2 Java Script file (.js )
+	* 4 Style Sheet      (.css)
+	* 1 table from xampp
+	** Admin Can only change ,Update ,Delete User Account
+		Admin Email Address - malithsony@gmail.com
+		Admin Password      - pas11
+		Other user accounts Password - pas22
+
+	** I have drow diagram fro give idea about how process my pages **
+<<<<<<<<<<<<<<<<<<<<<<<<<< THANK YOU >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+		
+

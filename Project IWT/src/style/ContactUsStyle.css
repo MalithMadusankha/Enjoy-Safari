@@ -1,0 +1,111 @@
+label{color: white;}
+
+.formAll {
+  background-color: #0006;
+  margin: 0 600px 100px 50px;
+  padding: 50px;
+
+}
+.fAll{
+	margin-left: 50px;
+	font-size:18px;
+	font-weight: bold;
+  color: white;
+}
+
+.formInput{
+  margin-left: 50px;
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 2px solid white;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.inputE{
+  margin-left: 50px;
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 2px solid white;
+  border-radius: 4px;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.textArea{
+  margin-left: 50px;
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 2px solid white;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.fSubmit{
+  margin-left: 50px;
+  width: 50%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 15px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  height: 20px;
+  width: 300px;
+  display: block;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.google {
+	background-color: lightblue;
+	padding: 12px 20px;
+	text-align: center center;
+	font-size: 18px;
+	cursor: pointer;
+  border-radius: 4px;
+	height: 20px;
+  width: 250px;
+  display: block;
+}
+.google:hover {
+	background-color: blue;
+}
+
+.button {
+	margin-left: 0px;
+	background-color: #4CAF50;
+	border: none;
+	color: white;
+	padding: 12px 20px;
+	text-align: center
+	font-size: 16px;
+	cursor: pointer;
+	height: 50px;
+}
+			
+.button:hover {
+	background-color: green;
+}
+
+.erro {
+  color: white;
+  background-color: red;
+  width: 50%;
+  padding-left: 10px;
+}
+.erro1 {
+  color: white;
+  background-color: blue;
+  width: 50%;
+}
